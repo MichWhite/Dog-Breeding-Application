@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dog Breeding</string>
+    <string name="action_settings">Settings</string>
+    <string name="breedingTool">Breeding Tool</string>
+    <string name="dalyDev">Daly Development</string>
+    <string name="logo">Lethabo German Shepherds Logo</string>
+    <string name="title_activity_main">Dog Breeding Management</string>
+    <string name="addButton">Add Dog</string>
+    <string name="showButton">Show Dogs</string>
+    <string name="title_activity_add">Add Dog</string>
+    <string name="Name">Name</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="DOB">DOB</string>
+    <string name="Age">Age</string>
+    <string name="ChipNum">Chip Number</string>
+    <string name="title_activity_display">Display Dogs</string>
+    <string name="Chip">Chip</string>
+    <string name="DeleteAll">Delete All</string>
+    <string name="DateofBirth">Date of Birth</string>
+</resources>
